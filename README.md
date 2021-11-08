@@ -1,2 +1,2 @@
 # Sareetan zehar dantzan Java erabiliz: 12. kapituluko adibideak
-Hemen aurkezpen moduko testua
+Programaren exekuzioa amaitzen denean, edo konputagailua itzali baino lehen, ia programa guztiek prozesatutako datuak modu iraunkorrean biltegiratzeko beharra dute. Askotan, datuak fitxategietan gordetzen dira edo fitxategietatik irakurtzen dira. Beraz, hamabigarren kapituluan fitxategiak nola kudeatzen diren ikasi behar da, eta helburu hori nola lortu.
