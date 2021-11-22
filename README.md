@@ -3,13 +3,13 @@ Programaren exekuzioa amaitzen denean, edo konputagailua itzali baino lehen, ia 
 
 Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen adibide bakoitzaren kokapena:
 
-- AEGANA: . orr.
-- FileKlaseaAdibidea: . orr.
-- Fitxategiak2: . orr.
-- Fitxategiak3: . orr.
-- Fitxategiak4: . orr.
-- Fitxategiak5: . orr.
-- Fitxategiak6: . orr.
-- Fitxategiak7: . orr.
-- FitxategiBitarrak: . orr.
-- TestuFitxategiak: . orr.
+- AEGANA: 343. orr.
+- FileKlaseaAdibidea: 300. orr.
+- Fitxategiak2: 296. orr.
+- Fitxategiak3: 296. orr.
+- Fitxategiak4: 313. orr.
+- Fitxategiak5: 314. orr.
+- Fitxategiak6: 319. orr.
+- Fitxategiak7: 303. orr.
+- FitxategiBitarrak: 312. orr.
+- TestuFitxategiak: 334. orr.
