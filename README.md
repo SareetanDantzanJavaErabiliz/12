@@ -13,3 +13,6 @@ Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen ad
 - Fitxategiak7: 303. orr.
 - FitxategiBitarrak: 312. orr.
 - TestuFitxategiak: 334. orr.
+
+| [Liburuaren aurkezpena](https://youtu.be/b7Lp1WZJflE) | [Liburuaren erabilpena](https://youtu.be/xtkatKohanU) |
+| ------------- | ------------- |
